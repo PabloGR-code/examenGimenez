@@ -4,3 +4,5 @@
 4º touch prog/index.php
 5º cd si
 6º cp ../prog/index.php ../bbdd/consultas.sql
+7º cd ..
+8º mkdir si/git
