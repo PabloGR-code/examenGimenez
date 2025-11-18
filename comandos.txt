@@ -1,3 +1,4 @@
 1º mkdir examenGimenez
 2º cd examenGimenez
 3º mkdir prog si bbdd
+4º touch prog/index.php
