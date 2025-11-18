@@ -6,3 +6,4 @@
 6º cp ../prog/index.php ../bbdd/consultas.sql
 7º cd ..
 8º mkdir si/git
+9º cd si/git 
