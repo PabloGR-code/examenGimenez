@@ -11,4 +11,5 @@
 11º rm ../../bbdd/consultas.sql
 12º mv ../../prog/index.php/ index2.php
 13º echo "select * from clientes" >> ../../login
-14º rm -rf  examenGimenez
+14º cd ../../..
+15º rm -rf  examenGimenez
