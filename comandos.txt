@@ -8,3 +8,4 @@
 8º mkdir si/git
 9º cd si/git 
 10º touch ../../login
+11º rm ../../bbdd/consultas.sql
